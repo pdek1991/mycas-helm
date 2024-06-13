@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mycas:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-13T13:54:29.113207039+05:30"
+    description: A Helm chart for mycas
+    digest: 7b70b0cb337686474a34b1441586bf06c590d6eed8006bca994cee3be132c7d2
+    name: mycas
+    type: application
+    urls:
+    - https://pdek1991.github.io/mycas-helm/charts/mycas-1.tgz
+    version: "1"
+generated: "2024-06-13T13:54:29.106327088+05:30"
